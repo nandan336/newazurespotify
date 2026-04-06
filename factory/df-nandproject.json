@@ -1,0 +1,9 @@
+{
+	"name": "df-nandproject",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19516959-140f-40d8-b7e5-b235b6f48b25",
+		"tenantId": "dc0b52a3-68c5-44f7-881d-9383d8850b96"
+	}
+}
